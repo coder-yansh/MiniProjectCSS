@@ -1,2 +1,3 @@
 # This is the my first Project
-I have desugned a fully responsive custom navigation bar.
+I have designed a fully responsive custom navigation bar for a photography website.
+[![Preview image](image_url)](https://coder-yansh.github.io/MiniProjectCSS/)
